@@ -435,11 +435,9 @@ Planned improvements include:
 
 **Developed for the AWS Strands SDK: Workshop to Ship Hackathon 2026.**
 
-GitHub Repository: [FarmGuard AI](https://github.com/YOUR_USERNAME/FarmGuard-AI)
+GitHub Repository: https://github.com/prathamesh-1983/FarmGuard-AI
 
-Live Demo: [Add your deployed application link]
-
-Demo Video: [Add your public video link]
+Demo Video: https://drive.google.com/file/d/1mucMnTsUcJ5XKUJ2kLmiCYjqyFTIKJ31/view?usp=sharing
 
 ---
 
